@@ -1,0 +1,36 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #ccc;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+button {
+    margin: 15px;
+}
+
+.header {
+    font-weight: 700;
+   line-height: 1.5em;
+   letter-spacing: .7rem;
+   margin-bottom: 0;
+}
+
+.lead {
+    margin-right: 65px;
+    
+}
+
+.dare {
+    text-align: left;
+    max-width: 70%;
+}
+
+.title {
+    font-weight: bold;
+    text-decoration: underline;
+    color: red;
+}
